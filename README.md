@@ -1,5 +1,3 @@
-
-
 # Credit Card Fraud Detection (End-to-End ML + MLOps)
 
 ## Contents
@@ -185,9 +183,7 @@ MLflow is used to track:
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
-
----
----
+````
 
 ## ▶️ How to Run
 
@@ -213,6 +209,7 @@ python main.py \
 ```bash
 mlflow ui
 ```
+
 ---
 
 ## Docker Support
@@ -290,3 +287,6 @@ POST /predict
 | Voting Classifier   | 0.83     | 0.78   |
 
 **Random Forest** achieved the best balance between recall and precision on validation data.
+
+```
+```
