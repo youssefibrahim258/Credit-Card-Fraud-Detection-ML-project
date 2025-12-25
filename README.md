@@ -289,6 +289,3 @@ POST /predict
 | Voting Classifier   | 0.83     | 0.78   |
 
 **Random Forest** achieved the best balance between recall and precision on validation data.
-
----
-قولي 👍
